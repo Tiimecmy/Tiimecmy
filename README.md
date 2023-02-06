@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiimecmy
 - 👀 I’m interested in Front-end jobs
-- 🌱 I’m currently learning React.js, JavaScript, Tailwind, Boostrap3 and more
+- 🌱 I’m currently learning React.js, Next.js, Tailwind, Boostrap3 and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LINE: timeizstop, Facebook: Tiime cmy, Twitter: Tiimecmy
 
